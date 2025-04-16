@@ -8,3 +8,4 @@ Cet atelier est ouvert à tous les designers et développeurs qui souhaitent dé
 [Opquast : Les règles Opquast](https://checklists.opquast.com/fr/assurance-qualite-web/) <br />
 [W3C : Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/)<br />
 [Octo Talks : Stratégie de tests a11y](https://blog.octo.com/strategie-de-tests-a11y-(pour-l'accessibilite-web))<br />
+[Beta.gouv : 10 choses faciles à vérifier pour un site plus accessible](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/10-choses-faciles-a-verifier-pour-un-site-plus-accessible)
