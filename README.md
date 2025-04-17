@@ -4,7 +4,7 @@ Cet atelier est ouvert à tous les designers et développeurs qui souhaitent dé
 
 ## Outils et Ressources
 [Shadok : 10 Easy Checks pour un site web accessible (PDF)](https://workshops.olivierguillard.dev/10-easy-checks-web-accessible.pdf) <br />
-[Shadok : Slides 10 Easy Checks pour un site web accessible (PDF)](https://workshops.olivierguillard.dev/shadok-slides-10-easy-checks-web-accessible.pdf) <br />
+[Shadok : Slides 10 Easy Checks pour un site web accessible (PDF)](https://workshops.olivierguillard.dev/slides-10-easy-checks-web-accessible.pdf) <br />
 [RGAA : Critères et tests](https://accessibilite.numerique.gouv.fr/methode/criteres-et-tests/) <br />
 [Opquast : Les règles Opquast](https://checklists.opquast.com/fr/assurance-qualite-web/) <br />
 [W3C : Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/)<br />
